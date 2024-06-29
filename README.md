@@ -21,7 +21,7 @@ The Soroban Smart Contract Generator Chatbot is an AI-powered tool designed to f
 Example
 
 ```
-User: Create a Soroban smart contract for a loan agreement of $10,000 with 5% interest.
+User: Create a Soroban hello world smart contract.
 
 Chatbot: Generating Soroban smart contract...
          Contract created successfully:
