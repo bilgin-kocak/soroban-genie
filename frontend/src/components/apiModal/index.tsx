@@ -102,7 +102,7 @@ function APIModal(props: { setApiKey: any; sidebar?: boolean }) {
                 lineHeight="28px"
                 mb="22px"
               >
-                You need an OpenAI API Key to use Horizon AI Template's
+                You need an OpenAI API Key to use Soroban AI Template's
                 features. Your API Key is stored locally on your browser and
                 never sent anywhere else.
               </Text>

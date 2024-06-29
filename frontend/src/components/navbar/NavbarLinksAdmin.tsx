@@ -112,7 +112,7 @@ export default function HeaderLinks(props: {
                 w="100%"
                 h="54px"
               >
-                Buy Horizon AI Template
+                Buy Soroban AI Template
               </Button>
             </Link>
             <Link

@@ -9,7 +9,7 @@
 
 <p>&nbsp;</p>
 
-Get started and build your dream AI web app with Horizon AI Template, the trendiest & innovative Open-Source Free ChatGPT AI Admin Template for NextJS & React!
+Get started and build your dream AI web app with Soroban AI Template, the trendiest & innovative Open-Source Free ChatGPT AI Admin Template for NextJS & React!
 
 ---
 
@@ -63,18 +63,18 @@ View <a href="https://horizon-ui.com/chatgpt-ai-template/?ref=readme-horizon-ai-
 
 | Free Version                                                                                                                                                         | PRO Version                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon ChatGPT AI Template](https://i.ibb.co/Qmym1qt/horizon-ai-template-presentation-image-open-source.png)](https://github.com/horizon-ui/chatgpt-ai-template) | [![Horizon AI Template PRO](https://i.ibb.co/ChL2fvf/horizon-ai-template-presentation-image.png)](https://www.horizon-ui.com/ai-template?ref=readme-horizon-ai-template-free) |
+| [![Horizon ChatGPT AI Template](https://i.ibb.co/Qmym1qt/horizon-ai-template-presentation-image-open-source.png)](https://github.com/horizon-ui/chatgpt-ai-template) | [![Soroban AI Template PRO](https://i.ibb.co/ChL2fvf/horizon-ai-template-presentation-image.png)](https://www.horizon-ui.com/ai-template?ref=readme-horizon-ai-template-free) |
 
 ### Figma Version
 
-Horizon AI Template is available in Figma format as well! [Check it out here](https://www.figma.com/community/file/1253038328954459768)! 🎨
+Soroban AI Template is available in Figma format as well! [Check it out here](https://www.figma.com/community/file/1253038328954459768)! 🎨
 
 ### Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Horizon UI. Here are
 some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Horizon AI Template.
+1. Make sure that you are using the latest version of the Soroban AI Template.
    Check the CHANGELOG from your dashboard on our
    [CHANGE LOG File](https://github.com/horizon-ui/chatgpt-ai-template/blob/main/CHANGELOG.md?ref=readme-horizon-ai-template-free).
 2. Providing us reproducible steps for the issue will shorten the time it takes
@@ -86,7 +86,7 @@ some advices for our users that want to report an issue:
 
 ### Community
 
-Connect with the community! Feel free to ask questions, report issues, and meet new people that already use Horizon AI Template!
+Connect with the community! Feel free to ask questions, report issues, and meet new people that already use Soroban AI Template!
 
 💬 [Join the #HorizonUI Discord Community!](https://discord.gg/f6tEKFBd4m)
 
