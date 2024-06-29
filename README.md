@@ -1,3 +1,5 @@
+# Soroban Smart Contract Generator Chatbot
+
 ## Overview
 
 The Soroban Smart Contract Generator Chatbot is an AI-powered tool designed to facilitate the creation of Soroban smart contracts directly from user text inputs. Leveraging a Large Language Model (LLM) and fine-tuning techniques, the chatbot interprets user requirements and generates structured Soroban smart contract code.
